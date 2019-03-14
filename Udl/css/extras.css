@@ -1,0 +1,116 @@
+h6{
+	margin-left: 20%;
+}
+
+.cuadro{
+	margin-left: 25%;
+
+}
+
+.cuadro2{
+	padding-left: 120px;
+	margin-right: 25%;
+}
+
+.cuadro ul li{
+	
+	list-style: none;
+}
+.botones{
+	margin-left: 120px;
+}
+
+.inputiniciar{
+	padding: 4%;
+	background-color: #E91B3D;
+	color: white;
+	border-radius: 5px;
+	margin-top: 5%;
+	margin-right: 40%;
+}
+
+.inputiniciar:hover{
+	background-color:rgba(255, 117, 117, 1);
+	color: white;
+}
+
+.inputiniciar strong{
+	padding-left: 35%;
+}
+
+.inputiniciar2{
+	padding: 4%;
+	background-color: #E91B3D;
+	color: white;
+	border-radius: 5px;
+	margin-top: 5%;
+	margin-right: 43%;
+}
+
+.inputiniciar2:hover{
+	background-color:rgba(255, 117, 117);
+	color: white;
+}
+
+.inputiniciar2 strong{
+	padding-left: 35%;
+}
+
+.inputiniciar3{
+	padding: 2%;
+	background-color: #E91B3D;
+	color: white;
+	border-radius: 5px;
+	margin-top: 5%;
+	margin-right: 33%;
+}
+
+.inputiniciar3:hover{
+	background-color:rgba(255, 117, 117, 1);
+	color: white;
+}
+
+.inputiniciar3 strong{
+	padding-left: 15%;
+}
+
+
+.inputiniciar4{
+	padding: 2%;
+	background-color: #E91B3D;
+	color: white;
+	border-radius: 5px;
+	margin-top: 5%;
+	margin-bottom: 3%;
+	margin-right: 25%;
+	margin-left: 30%;
+}
+
+.inputiniciar4:hover{
+	background-color:rgba(255, 117, 117, 1);
+	color: white;
+}
+
+.inputiniciar4 strong{
+	padding-left: 34%;
+}
+
+#liststyle{
+	list-style: none;
+}
+
+.seleccionar{
+	padding:5%;
+	border-color: red;
+	border-radius: 5%;
+	padding-right: 28%;
+	margin: 5%;
+}
+
+#icono{
+	background-color: red;
+	position: left;
+	padding: 3%;
+	border-radius: 5%;
+}
+
